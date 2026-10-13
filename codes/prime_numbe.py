@@ -15,3 +15,4 @@ if __name__ == "__main__":
     else:
         print(num,"is not prime")
     
+# python .\codes\prime_numbe.py
