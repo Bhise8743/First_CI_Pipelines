@@ -29,4 +29,4 @@ def test_negative():
 def test_two():
     assert module.is_prime(2) is True
     
-# python -m pytest .\test_case\test_prime_number.py
+#  python -m pytest .\test_code\test_prime_numbe.py
